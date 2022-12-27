@@ -1,8 +1,8 @@
 # Congestive Heart Failure
 
 
-Trying to detect a comment heart disease known as Congestive Heart Failure using machine learning algorithms,
-Hyperparameter search, and model stacking for better results
+Trying to detect a comment heart disease known as Congestive Heart Failure using machine learning algorithms.
+which includes scaling and doing different EDA on the data as well as  Hyperparameter search, and model stacking for better results.
 
 Definitely worth checking!
 
